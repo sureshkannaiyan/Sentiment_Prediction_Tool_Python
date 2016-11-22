@@ -1,0 +1,6 @@
+{
+  "name": "Product Review Sentiment Predictor - Python",
+  "tagline": "",
+  "body": "This tool predicts sentiment (opinions) from users comments (reviews) on a particular mobile phone product. Particularly, the sentiment on chosen project feature is predicted and results are shown in appropriate textboxes.\r\nThe opinion of the users are classified to three categories: positive, neutral and negative. Machine learning algorithms (classification algorithms) of Python scikit-learn tool are used to classify user reviews.\r\n\r\n### Author and Contributor\r\nSuresh Kannaiyan\r\nDepartment of Computer Science\r\nBishop Heber College (Autonomous)\r\nTiruchirappalli, 620017, INDIA\r\nsureshk.naga@gmail.com\r\n+91 9788197570\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
